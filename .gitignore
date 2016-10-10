@@ -1,0 +1,9 @@
+production/
+**/.idea/workspace.xml
+*.userprefs
+*/xcuserdata
+*/bin
+*/obj
+**/app/build
+**/.gradle
+**/local.properties
